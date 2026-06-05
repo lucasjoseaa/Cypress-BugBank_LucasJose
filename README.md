@@ -187,6 +187,15 @@ Benefícios:
 18 Casos de Teste Executados com Sucesso
 0 Falhas
 ```
+<img src="./README-assets/tc-bb-1.png" width="400">
+
+<img src="./README-assets/tc-bb-2.png" width="400">
+
+<img src="./README-assets/tc-bb-3.png" width="400">
+
+<img src="./README-assets/tc-bb-4.png" width="400">
+
+<img src="./README-assets/tc-bb-5.png" width="400">
 
 
 # 👨‍💻 Autor
